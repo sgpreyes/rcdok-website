@@ -14,7 +14,8 @@ title: RCDOK
 tagline: Official Website of the Roman Catholic Diocese of Kalookan
 description: >-
   The official website of the Roman Catholic Diocese of Kalookan. Find parish information, announcements, and contact details.
-url: "https://kaela-4650.github.io/rcdok-website"
+url: 'https://Kaela-4650.github.io'
+baseurl: '/rcdok-website'
 
 github:
   username: kaela-4650 # your GitHub username

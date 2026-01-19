@@ -24,16 +24,16 @@ The diocese serves the southern part of **Caloocan City**, and the cities of **M
 
 The symbols represent the three jurisdictions that comprise the Diocese:
 
-* **The Monument (Center):** Represents Caloocan City.
+* **The Monument (Center):** Represents Caloocan City, from which the name of the Diocese was derived.
 * **The Fishes (Right):** Represent the City of Malabon.
 * **The Banca (Left):** Represents the Municipality of Navotas.
 * **The Cross & Dove:** The Cross signifies the centrality of Jesus Christ, while the Dove represents the Holy Spirit.
 
 **Symbolism of Colors and Motto**
-* **Red (Lower Half):** Symbolizes the valor of martyrdom of Philippine heroes and the sanguine ardor and love of the Diocese.
+* **Red (Lower Half):** Symbolizes the valor of martyrdom and the sanguine ardor, fortitude, and love of the Diocese.
 * **Blue (Upper Half):** Denotes the Marian character of the diocesan ministry.
 
-> **Motto:** “DUC IN ALTUM” (Lk. 5:4) – “Put out into the deep”.
+> **Motto:** “DUC IN ALTUM” (Lk. 5:4) – “Put out into the deep” captures the direction of the Diocese in the Third Millennium.
 
   </div>
 </div>
@@ -48,16 +48,16 @@ The symbols represent the three jurisdictions that comprise the Diocese:
   <div style="flex: 2; min-width: 300px;">
 
 **I. Diocesan Symbolism (Left)**
-The left side pertains to the Diocese of Kalookan, featuring symbols of the coastal communities of Malabon and Navotas, and the Bonifacio Monument of Caloocan City.
+Features the boat, net, and shoal of fish (Malabon/Navotas) and the Bonifacio Monument (Caloocan), recalling the call of the first disciples.
 
 **II. Personal Symbolism (Right)**
 * **IHS & M:** Signifies his Jesuit formation and the Mary Help of Christians Seminary.
-* **Lily & Saw:** Symbols of St. Joseph and the carpentry heritage of his birthplace, Betis, Pampanga.
+* **Lily & Saw:** Symbols of St. Joseph and the carpentry heritage of Betis, Pampanga.
 * **Alaya:** "East" written in traditional *Baybayin*, representing his home province.
 * **Bible & Dove:** Symbolizes the Word of God and his mission in social communications.
 * **Bamboo Chi-Rho:** Represents the humble pastorship of Jesus Christ.
 
-> **Motto:** “KENOSIS” – Total self-emptying and humility, inspired by Philippians 2:6-11.
+> **Motto:** “KENOSIS” – Total self-emptying and humility, hango sa sulat ni San Pablo sa mga taga-Filipos: 2:6-11.
 
   </div>
 </div>
@@ -66,10 +66,19 @@ The left side pertains to the Diocese of Kalookan, featuring symbols of the coas
 
 ### Leadership
 **His Eminence Pablo Virgilio S. Cardinal David, D.D.** *Bishop of Kalookan*
+Cardinal "Ambo" David was installed on January 2, 2016. In 2024, he was elevated to the College of Cardinals by Pope Francis.
 
-Cardinal "Ambo" David was installed as the second Bishop of Kalookan on January 2, 2016. In 2024, he was elevated to the **College of Cardinals** by Pope Francis, making him the first cardinal from the Diocese of Kalookan.
+**Bishop Emeritus Deogracias S. Iñiguez, Jr., D.D.** *First Bishop (2003–2013)*
 
-**Bishop Emeritus Deogracias S. Iñiguez, Jr., D.D.** *First Bishop of Kalookan (2003–2013)*
+---
+
+### Our Vision & Mission
+
+**Vision Statement**
+> “A people called by the Father in Jesus Christ to become a Community of persons with Fullness of Life witnessing to the Kingdom of God by living the Paschal Mystery in the power of the Holy Spirit with Mary as Companion.”
+
+**Mission**
+The Diocese is committed to being a “Community of Communities,” fostering the formation of Basic Ecclesial Communities (BECs) and reaching out to those in the “peripheries” through mission stations and social communication programs.
 
 ---
 

@@ -6,10 +6,10 @@ order: 2
 ---
 
 ## The Roman Catholic Diocese of Kalookan
-The Diocese of Kalookan was created by **Pope John Paul II** on June 28, 2003, through the apostolic letter *Quoniam Quælibet*. It was formally established on August 22, 2003, following the division of the Archdiocese of Manila into several new dioceses.
+The Diocese of Kalookan was created by **Pope John Paul II** on June 28, 2003, through the apostolic letter *Quoniam Quælibet*. It was formally established on August 22, 2003, following the division of the Archdiocese of Manila.
 
 ### Territorial Jurisdiction
-The diocese serves the southern part of **Caloocan City**, and the cities of **Malabon** and **Navotas**. It comprises approximately 31 parishes and several mission stations.
+The diocese serves the southern part of **Caloocan City**, and the cities of **Malabon** and **Navotas**. It comprises approximately 31 parishes and several mission stations, serving a vibrant Catholic community in Northern Metro Manila.
 
 ---
 
@@ -21,17 +21,20 @@ The diocese serves the southern part of **Caloocan City**, and the cities of **M
     <img src="https://dioceseofkalookan.ph/wp-content/uploads/2019/04/Coat-of-Arms-of-Diocese-of-Kalookan-png_small_favicon.png" alt="Diocese of Kalookan Coat of Arms" style="width: 200px; height: auto;">
   </div>
   <div style="flex: 2; min-width: 300px;">
-    <p>The symbols represent the three jurisdictions that comprise the Diocese:</p>
-    <ul>
-      <li><strong>The Monument (Center):</strong> Represents Caloocan City.</li>
-      <li><strong>The Fishes (Right):</strong> Represent the City of Malabon.</li>
-      <li><strong>The Banca (Left):</strong> Represents the Municipality of Navotas.</li>
-      <li><strong>The Cross & Dove:</strong> Signifies Christ and the Holy Spirit.</li>
-    </ul>
-    <p><strong>Colors:</strong> <span style="color: #c0392b;">Red</span> for valor/fortitude; <span style="color: #2980b9;">Blue</span> for the Marian character.</p>
-    <blockquote style="border-left: 5px solid #2980b9; padding-left: 15px;">
-        <strong>Motto:</strong> “DUC IN ALTUM” – “Put out into the deep”
-    </blockquote>
+
+The symbols represent the three jurisdictions that comprise the Diocese:
+
+* **The Monument (Center):** Represents Caloocan City.
+* **The Fishes (Right):** Represent the City of Malabon.
+* **The Banca (Left):** Represents the Municipality of Navotas.
+* **The Cross & Dove:** The Cross signifies the centrality of Jesus Christ, while the Dove represents the Holy Spirit.
+
+**Symbolism of Colors and Motto**
+* **Red (Lower Half):** Symbolizes the valor of martyrdom of Philippine heroes and the sanguine ardor and love of the Diocese.
+* **Blue (Upper Half):** Denotes the Marian character of the diocesan ministry.
+
+> **Motto:** “DUC IN ALTUM” (Lk. 5:4) – “Put out into the deep”.
+
   </div>
 </div>
 
@@ -43,19 +46,19 @@ The diocese serves the southern part of **Caloocan City**, and the cities of **M
     <img src="https://dioceseofkalookan.ph/wp-content/uploads/2020/12/CoA-Cardinal-Ambo-e1739765015611.png" alt="Cardinal David Coat of Arms" style="width: 200px; height: auto;">
   </div>
   <div style="flex: 2; min-width: 300px;">
-    <strong>I. Diocesan Symbolism (Left)</strong>
-    <p>Features the boat, net, and shoal of fish (Malabon/Navotas) and the Bonifacio Monument (Caloocan).</p>
-    
-    <strong>II. Personal Symbolism (Right)</strong>
-    <ul>
-      <li><strong>IHS & M:</strong> Jesuit formation and Mary Help of Christians Seminary.</li>
-      <li><strong>Lily & Saw:</strong> St. Joseph and the carpentry heritage of Betis, Pampanga.</li>
-      <li><strong>Alaya:</strong> "East" written in traditional <em>Baybayin</em>.</li>
-      <li><strong>Bible & Dove:</strong> The Word of God and social communications mission.</li>
-    </ul>
-    <blockquote style="border-left: 5px solid #c0392b; padding-left: 15px;">
-        <strong>Motto:</strong> “KENOSIS” – Total self-emptying and humility.
-    </blockquote>
+
+**I. Diocesan Symbolism (Left)**
+The left side pertains to the Diocese of Kalookan, featuring symbols of the coastal communities of Malabon and Navotas, and the Bonifacio Monument of Caloocan City.
+
+**II. Personal Symbolism (Right)**
+* **IHS & M:** Signifies his Jesuit formation and the Mary Help of Christians Seminary.
+* **Lily & Saw:** Symbols of St. Joseph and the carpentry heritage of his birthplace, Betis, Pampanga.
+* **Alaya:** "East" written in traditional *Baybayin*, representing his home province.
+* **Bible & Dove:** Symbolizes the Word of God and his mission in social communications.
+* **Bamboo Chi-Rho:** Represents the humble pastorship of Jesus Christ.
+
+> **Motto:** “KENOSIS” – Total self-emptying and humility, inspired by Philippians 2:6-11.
+
   </div>
 </div>
 
@@ -64,4 +67,13 @@ The diocese serves the southern part of **Caloocan City**, and the cities of **M
 ### Leadership
 **His Eminence Pablo Virgilio S. Cardinal David, D.D.** *Bishop of Kalookan*
 
-Cardinal "Ambo" David was installed as the second Bishop of Kalookan on January 2, 2016. In 2024, he was elevated to the College of Cardinals by Pope Francis.
+Cardinal "Ambo" David was installed as the second Bishop of Kalookan on January 2, 2016. In 2024, he was elevated to the **College of Cardinals** by Pope Francis, making him the first cardinal from the Diocese of Kalookan.
+
+**Bishop Emeritus Deogracias S. Iñiguez, Jr., D.D.** *First Bishop of Kalookan (2003–2013)*
+
+---
+
+### Contact Information
+* **Address:** San Roque Cathedral Compound, A. Mabini St. cor. 10th Ave., Caloocan City, Philippines
+* **Telephone:** (02) 288-9116 / 287-3693
+* **Official Website:** [https://dioceseofkalookan.ph](https://dioceseofkalookan.ph)

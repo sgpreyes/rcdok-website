@@ -5,58 +5,70 @@ icon: fas fa-school
 order: 3
 ---
 
-<div style="background: linear-gradient(to right, #2980b9, #ffffff, #2980b9); padding: 30px; border-radius: 15px; text-align: center; border: 1px solid #ddd; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-bottom: 40px;">
-  <h2 style="margin: 0; color: #2c3e50;">KADSA OFFICE</h2>
-  <p style="margin: 5px 0;"><strong>Office Address:</strong> San Jose Academy</p>
-  <p style="margin: 5px 0;">M. Naval Street, San Jose, Navotas City</p>
-  <p style="margin: 5px 0;"><strong>Tel. No.</strong> 282-9039 loc 402 / 0926-7476747</p>
-</div>
+## Kalookan Diocesan Schools Association (KADSA)
 
-<div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center;">
+### KADSA Office
+* **Office Address:** San Jose Academy, M. Naval Street, San Jose, Navotas City
+* **Telephone:** 282-9039 loc 402 / 0926-7476747
 
-  <div style="flex: 1; min-width: 350px; max-width: 480px; background: linear-gradient(180deg, #ffffff 0%, #d6eaf8 100%); border-radius: 25px; border: 1px solid #aec6cf; overflow: hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.15); display: flex; flex-direction: column;">
-    <div style="padding: 25px; display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 2;">
-        <h3 style="color: #2c3e50; font-size: 1.2em; margin-top: 0;">Immaculate Conception Parochial School (ICPS)</h3>
-        <p style="font-size: 0.9em; line-height: 1.4;">
-          272 Gen. Luna St. Concepcion, Malabon City<br>
-          <strong>Email:</strong> immaculate@icps1967-malabon.edu.ph<br>
-          <strong>Director:</strong> Rev. Fr. Rey O. Amante
-        </p>
-      </div>
-      <div style="flex: 1; text-align: right;">
-        <img src="https://dioceseofkalookan.ph/wp-content/uploads/2020/12/icps-logo.png" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      </div>
-    </div>
-    <div style="padding: 10px 25px; text-align: center;">
-       <a href="#" style="color: #2980b9; font-size: 1.5em; margin: 0 10px;"><i class="fab fa-facebook"></i></a>
-    </div>
-    <div style="height: 200px; background: #eee; border-top: 1px solid #ccc;">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3859.5!2d120.94!3d14.66!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b5a!2sImmaculate%20Conception%20Parochial%20School!5e0!3m2!1sen!2sph!4v123456789" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    </div>
-  </div>
+---
 
-  <div style="flex: 1; min-width: 350px; max-width: 480px; background: linear-gradient(180deg, #ffffff 0%, #d6eaf8 100%); border-radius: 25px; border: 1px solid #aec6cf; overflow: hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.15); display: flex; flex-direction: column;">
-    <div style="padding: 25px; display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 2;">
-        <h3 style="color: #2c3e50; font-size: 1.2em; margin-top: 0;">La Consolacion College – Caloocan (LCC – C)</h3>
-        <p style="font-size: 0.9em; line-height: 1.4;">
-          496 A. Mabini Street, Caloocan City<br>
-          <strong>Tel:</strong> 8287-97-03<br>
-          <strong>President:</strong> Sr. Ma. Lina R. Despojo, OSA
-        </p>
-      </div>
-      <div style="flex: 1; text-align: right;">
-        <img src="https://dioceseofkalookan.ph/wp-content/uploads/2020/12/lcc-logo.png" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      </div>
-    </div>
-    <div style="padding: 10px 25px; text-align: center;">
-       <a href="#" style="color: #2980b9; font-size: 1.5em; margin: 0 10px;"><i class="fab fa-facebook"></i></a>
-       <a href="#" style="color: #2980b9; font-size: 1.5em; margin: 0 10px;"><i class="fas fa-globe"></i></a>
-    </div>
-    <div style="height: 200px; background: #eee; border-top: 1px solid #ccc;">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.0!2d120.97!3d14.65!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b5a!2sLa%20Consolacion%20College%20Caloocan!5e0!3m2!1sen!2sph!4v123456789" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    </div>
-  </div>
+### Leadership & Board of Trustees
 
-</div>
+* **Cardinal Pablo Virgilio S. David** - *Bishop and Chairman of the Board*
+* **Rev. Fr. Kennedy A. Neral** - *Director*
+* **Mr. Jojie B. Juanerio** - *KADSA Coordinator*
+
+---
+
+### Directory of Member Schools
+
+**Immaculate Conception Parochial School (ICPS)**
+* **Address:** 272 Gen. Luna St. Concepcion, Malabon City
+* **Email:** immaculate@icps1967-malabon.edu.ph / icpsmalabon_1967@yahoo.com
+* **Director:** Rev. Fr. Rey O. Amante
+
+**La Consolacion College – Caloocan (LCC – C)**
+* **Address:** 496 A. Mabini Street, Caloocan City
+* **Telephone:** 8287-97-03
+* **Email:** lcccfinanceoffice@gmail.com
+* **President:** Sr. Ma. Lina R. Despojo, OSA
+
+**Notre Dame of Greater Manila (NDGM)**
+* **Address:** 161 9th St, East Grace Park, Caloocan City
+* **Telephone:** 8366-63-30 to 32 & 34
+* **Email:** inquiry@ndgm63.edu.ph
+* **Director:** Rev. Fr. Howard P. Tatel, OMI
+
+**San Jose Academy (SnJA)**
+* **Address:** M. Naval Street, San Jose, Navotas City
+* **Telephone:** 8282-90-39 Loc 111
+* **Email:** academysanjose@gmail.com
+* **Director:** Rev. Fr. Jeronimo Ma. J. Cruz
+* **Principal:** Mr. Rafael Patrick M. Pecjo
+* **School Chaplain:** Rev. Fr. Rufino P. Yabut
+
+**De La Salle Araneta University (DLSAU)**
+* **Address:** Victoneta Avenue, Potrero, Malabon City
+* **Telephone:** 8330-91-28
+* **Email:** info@dlsau.edu.ph
+* **President:** Br. Bernard S. Oca, FSC
+* **Chaplain:** Rev. Fr. Luis Zapata, IVE
+
+**St. Gabriel Academy (SGA)**
+* **Address:** Araneta Ave cor. Kaimito Road, Caloocan City
+* **Telephone:** 09988536850
+* **Email:** admin@sgacal.edu.ph
+* **Director:** Rev. Fr. Kennedy A. Neral
+* **School Chaplain:** Rev. Fr. Leandro Magnait
+
+**St. James Academy (SJA)**
+* **Address:** Rizal Ave Ext, Malabon City
+* **Telephone:** 8283-36-96 to 98 / 8281-59-90 Loc. 106
+* **Directress:** Sr. Nenita M. Handugan, OP
+* **School Chaplain:** Rev. Fr. Elpidio Erlano, Jr.
+
+**St. Mary’s Academy of Caloocan City (SMACC)**
+* **Address:** 12th Avenue, Grace Park, Caloocan City
+* **Telephone:** 8363-24-25 / 8363-25-25
+* **Directress:** Sr. Maria Evelyn C. Aguilar, RVM
